@@ -6,8 +6,6 @@
 # ภาพ UI Screen
 
 
-![localhost_55791_(Samsung Galaxy S20 Ultra) (7)]()
-
 
 <img src="https://github.com/user-attachments/assets/acc7bbc3-4724-4f36-b9f2-6eb635ecc500"  width="300">
 
